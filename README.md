@@ -1,7 +1,7 @@
 # School_Management_App
 .Net MVC App for managing  school resources
 # Technologies Use
-.Net,SQL SErver,oAUth(Authentication Purposes)
+.Net,SQL Server,oAUth(Authentication Purposes)
 # Important Note
 Please add your Oauth domain and client id Credentials in appsettings.json file
 
